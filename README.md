@@ -1,5 +1,5 @@
 # Hi, I’m Kilyungi. 
-### I’m interested in Web Development and I’m currently learning JavaScript. 
+### I’m interested in Web Development. 
 ## See you around.
 
 <!---
