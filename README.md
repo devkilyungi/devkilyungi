@@ -1,6 +1,6 @@
 # Hi, I’m Kilyungi. 
-### I’m interested in Web Development & Android development. 
-## See you around.
+### I’m interested in Web & Android development. 
+### See you around.
 
 <!---
 devkilyungi/devkilyungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
