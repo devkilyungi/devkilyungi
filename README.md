@@ -1,5 +1,5 @@
 # Hi, I’m Kilyungi. 
-### I’m interested in Web & Android development. 
+### I’m into Web development. 
 ### See you around.
 
 <!---
