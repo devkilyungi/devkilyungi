@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working on Frontend Mentor web development challenges.<br>
-I'm looking to collaborate on any fun project  that matches my skills.<br>
+I'm looking to collaborate on any fun web project.<br>
 I'm looking for help with android development, especially flutter.<br>
 I'm currently learning JavaScript Vanilla and Dart.<br>
 Ask me the first thing that comes on your mind.
