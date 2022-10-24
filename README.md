@@ -1,16 +1,19 @@
-# 💫 About Me:
+<h1 align="center">💫 About Me:</h1>
+<p align="center">
 I'm currently working on Frontend Mentor web development challenges.<br>
 I'm looking to collaborate on any fun web project.<br>
 I'm looking for help with android development, especially flutter.<br>
 I'm currently learning JavaScript Vanilla and Dart.<br>
-Ask me the first thing that comes on your mind.
-<br>Music is my daily driver.
+Ask me the first thing that comes on your mind.<br>
+Music is my daily driver.
+</p>
 
+<h1 align="center">🌐 Socials:</h1>
 
-## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vkilyungi) 
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack:</h1>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -22,12 +25,14 @@ Ask me the first thing that comes on your mind.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 --->
 
-# 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats:</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=devkilyungi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devkilyungi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devkilyungi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<h1 align="center">✍️ Random Dev Quote</h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
