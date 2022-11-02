@@ -1,9 +1,9 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">
-I'm currently working on Frontend Mentor web development challenges.<br>
+I'm currently working on Frontend Web Development challenges.<br>
 I'm looking to collaborate on any fun web project.<br>
 I'm looking for help with android development, especially flutter.<br>
-I'm currently learning JavaScript Vanilla and Dart.<br>
+I'm currently learning Dart.<br>
 Ask me the first thing that comes on your mind.<br>
 Music is my daily driver.
 </p>
@@ -18,10 +18,10 @@ Music is my daily driver.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!---
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 --->
 
