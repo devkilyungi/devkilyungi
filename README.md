@@ -1,10 +1,9 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">
 I'm currently working on Frontend Web Development challenges.<br>
-I'm looking to collaborate on any fun web project.<br>
-I'm looking for help with android development, especially flutter.<br>
+I'm looking to collaborate on any fun web / android project.<br>
 I'm currently learning Dart.<br>
-Ask me the first thing that comes on your mind.<br>
+I'm looking for help with android development, especially flutter.<br>
 Music is my daily driver.
 </p>
 
