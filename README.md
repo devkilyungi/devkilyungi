@@ -61,6 +61,8 @@ I'm Kilyungi, an aspiring full-stack Web & Android developer <br>
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" /></div>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cbkjc6iz3q25qx6sxdbzsum4pm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=75c473&bar_color_cover=true" /></div>  
+
 <!---
 devkilyungi/devkilyungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
