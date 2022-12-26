@@ -9,7 +9,7 @@
 I'm Kilyungi, an aspiring full-stack Web & Android developer <br>
   <br>
   
-🔭 I’m currently working on Frontend Mentor Web Challenges  
+🔭 I’m currently working on Frontend Mentor Web and Mobile App challenges
   
 🌱 I’m currently learning Android Development using the Flutter framework  
   
