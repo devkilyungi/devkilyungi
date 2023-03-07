@@ -45,17 +45,6 @@ I'm Kilyungi, an aspiring full-stack Web & Android developer <br>
   
 </div>
 
-<h1 align="center">📊 GitHub Stats:</h1>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkilyungi&theme=dark&hide_border=false" align="center" /></div>  
-<br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkilyungi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div> 
-
-<h1 align="center">✍️ Random Dev Quote</h1>
-
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" /></div>
-
 <!---
 devkilyungi/devkilyungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
