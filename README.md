@@ -9,7 +9,7 @@
 I'm Kilyungi, an aspiring full-stack Web & Android developer <br>
   <br>
   
-🌱 I’m currently working on Flutter challenges and learning Android and Web Development using the Flutter framework  
+🌱 I’m currently working on Mobile and Web Development challenges using Kotlin and the Web Trifecta (HTML,CSS,JS)  
   
 </div> 
 
