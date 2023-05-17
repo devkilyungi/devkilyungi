@@ -12,7 +12,7 @@
 
 ## Rapidfire  
   <div align="left">🔭 I’m currently working on <strong>Frontend Mentor Challenges</strong></div>  
-  <div align="left">🌱 I’m currently learning <strong>Tailwind.css</strong></div>  
+  <div align="left">🌱 I’m currently learning <strong>Kotlin</strong> and <strong>Node.js</strong></div>  
   <div align="left">❓ Ask me about <strong>CSS</strong> and <strong>JavaScript</strong></div>  
   <div align="left">⚡ Fun fact: <strong>Clash of Clans fan</strong></div>  
 
