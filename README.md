@@ -5,10 +5,13 @@
 ## About
 
 -  **Learning :** Android Mobile Development with Kotlin's Jetpack Compose.⚡
--  **Languages :** HTML, CSS, JavaScript, Dart & Kotlin. <!-- MongoDB, MySQL, Node.js -->
--  **Frameworks** : Flutter & Jetpack Compose. <!-- Tailwind.css, React.js -->
 -  **Hobbies :** Clash of Clans, Novels & Music.
 -  **Fact :** Obsession turns average people into outliers.
+
+## Tools of Trade
+<!-- Tailwind.css, React.js -->
+<!-- MongoDB, MySQL, Node.js -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,kotlin,vscode)](https://skillicons.dev)
 
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=devkilyungi&show_icons=true&count_private=true&hide_border=true" align="center" />
