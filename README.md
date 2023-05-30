@@ -13,5 +13,7 @@
 <!-- MongoDB, MySQL, Node.js -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,kotlin,vscode)](https://skillicons.dev)
 
+<!--
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=devkilyungi&show_icons=true&count_private=true&hide_border=true" align="center" />
+-->
