@@ -8,6 +8,7 @@ I'm a web and mobile developer with a passion for creating beautiful interfaces.
 
 🎯 My Goals:
 
+- Get 1% better daily.
 - Striving to be a great programmer, one line of code at a time.
 - Crafting web and mobile experiences that delight users.
 
