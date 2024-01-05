@@ -1,30 +1,27 @@
-# 👋 Hi there, I'm Kilyungi!
+# 👋 Hey there, I'm Vick - your friendly neighborhood developer!
 
-I'm a web and mobile developer with a passion for creating beautiful interfaces.
+Welcome to my page, where I try to craft captivating web and mobile experiences.
 
-🌱 Currently, I'm on a journey of continuous learning in:
+## 🌱 Continuous Learning Journey
 
-- Mobile Development with Jetpack Compose & SwiftUI.
+Currently, I'm immersed in the world of Mobile Development, exploring Jetpack Compose and SwiftUI. Every day is a step towards mastery, and I'm committed to getting 1% better in my craft daily.
 
-[//]: # (🎯 My Goals:)
+## 🎮 Beyond Coding
 
-[//]: # (- Get 1% better daily.)
+When I'm not engrossed in the world of code, you'll find me:
 
-[//]: # (- Striving to be a great programmer, one line of code at a time.)
-
-[//]: # (- Crafting web and mobile experiences that delight users.)
-
-🎮 When I'm not coding, you can find me:
-
-- Playing Clash of Clans or grooving to my favorite tunes.
+- Strategizing in Clash of Clans.
+- Diving into novels.
+- Moving to the beats of my favorite tunes.
 
 ## 🛠️ Tools of Trade
 
-I work with:
-<!-- Tailwind.css, React.js -->
-<!-- MongoDB, MySQL, Node.js -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,androidstudio,dart,flutter,kotlin,swift)](https://skillicons.dev)
+I wield these tools to bring my creations to life:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,androidstudio,dart,flutter,kotlin,swift,MongoDB)](https://skillicons.dev)
 
 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-kilyungi) 
+
+Happy coding! 🚧✨
