@@ -18,7 +18,7 @@ When I'm not engrossed in the world of code, you'll find me:
 
 I wield these tools to bring my creations to life:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,androidstudio,dart,flutter,kotlin,swift,MongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,androidstudio,dart,flutter,kotlin,swift,mongodb)](https://skillicons.dev)
 
 Let's connect:
 
