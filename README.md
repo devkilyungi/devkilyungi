@@ -1,27 +1,24 @@
-# 👋 Hey there, I'm Vick - your friendly neighborhood developer!
+<div style="display: flex; justify-content: space-between;">
+<!-- First Column: Profile Summary and Tools of Trade -->
+<div style="flex: 1;">
+<p> 
+👋 Hey there! I'm Vick, a dev crafting captivating web & mobile experiences. Currently diving into Jetpack Compose, SwiftUI, and React.js. When not coding, you'll find me lost in novels or grooving to beats. Let's connect! 🚀✨
+</p>
 
-Welcome to my page, where I try to craft captivating web and mobile experiences.
+<h2>🛠️ Tools of Trade</h2>
 
-## 🌱 Continuous Learning Journey
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,swift,vscode,androidstudio,mongodb,react,tailwind,dart,flutter)](https://skillicons.dev)
+</div>
 
-Currently, I'm immersed in the world of Mobile Development, exploring Jetpack Compose and SwiftUI. Every day is a step towards mastery, and I'm committed to getting 1% better in my craft daily.
+<!-- Second Column: Stats -->
+<div style="flex: 1;">
 
-## 🎮 Beyond Coding
+![devkilyungi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkilyungi&theme=vue-dark&hide_border=false)
 
-When I'm not engrossed in the world of code, you'll find me:
+  
+<!-- ![devkilyungi's Stats](https://github-readme-stats.vercel.app/api?username=devkilyungi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-- Strategizing in Clash of Clans.
-- Diving into novels.
-- Moving to the beats of my favorite tunes.
-
-## 🛠️ Tools of Trade
-
-I wield these tools to bring my creations to life:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,androidstudio,dart,flutter,kotlin,swift,mongodb)](https://skillicons.dev)
-
-Let's connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-kilyungi) 
+</div>
+</div>
 
 Happy coding! 🚧✨
