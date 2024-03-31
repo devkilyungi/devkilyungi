@@ -2,7 +2,7 @@
 <!-- First Column: Profile Summary and Tools of Trade -->
 <div style="flex: 1;">
 <p> 
-👋 Hey there! I'm Vick, a dev crafting captivating web & mobile experiences. Currently diving into Jetpack Compose, SwiftUI, and React.js. When not coding, you'll find me lost in novels or grooving to beats. Let's connect! 🚀✨
+👋 Hey there! I'm Vick, a dev crafting captivating web & mobile experiences. Currently diving into Jetpack Compose, SwiftUI, and React.js. When not coding, you'll find me lost in novels or grooving to beats.
 </p>
 
 <h2>🛠️ Tools of Trade</h2>
