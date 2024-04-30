@@ -4,7 +4,7 @@ I'm passionate about creating experiences that are easy to use, pleasing to the 
 
 🛠️ **Tools of Trade**
 
-- **Mobile Development:** Swift, Dart, Flutter, Kotlin
+- **Mobile Development:** Swift (SwiftUI), Dart (Flutter), Kotlin (Jetpack Compose)
 - **Testing:** Postman
 - **Version Control:** Git
 - **Database:** MongoDB
