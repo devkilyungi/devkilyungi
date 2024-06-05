@@ -25,6 +25,6 @@ I'm passionate about creating experiences that are easy to use, pleasing to the 
 
 📫 **Contact:**
 
-- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/victor-kilyungi).
+- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/kilyungi).
 
 Happy coding!
