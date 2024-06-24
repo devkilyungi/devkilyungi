@@ -10,7 +10,7 @@ I'm passionate about creating experiences that are easy to use, pleasing to the 
 - **Database:** `MongoDB`
 - **Project Management:** `ClickUp`, Jira
 - **Backend Development:** `Firebase`
-- **Frontend Development:** `HTML`, `CSS`, `Vanilla JS`, React.js, `TailwindCSS
+- **Frontend Development:** `HTML`, `CSS`, `Vanilla JS`, React.js, `TailwindCSS`
 
 ✨ **Fun Facts:**
 
