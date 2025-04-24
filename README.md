@@ -1,6 +1,6 @@
 # Hi there, I'm Kilyungi! 👋🏽
 
-I'm passionate about creating experiences that are easy to use, pleasing to the eye, and meet the user's needs. Currently, I'm diving into iOS development with `Swift` and `SwiftUI`.
+I'm passionate about creating experiences that are easy to use, pleasing to the eye, and meet the user's needs. Currently, I'm diving into iOS development with `Swift` and `SwiftUI`, and on the side I'm picking up `Rust`.
 
 🛠️ **Tools of Trade**
 
