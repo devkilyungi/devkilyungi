@@ -20,10 +20,10 @@ I'm passionate about creating experiences that are easy to use, pleasing to the 
 
 ![devkilyungi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkilyungi&theme=vue-dark&hide_border=false)
 <!-- 
-![devkilyungi's Stats](https://github-readme-stats.vercel.app/api?username=devkilyungi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+![devkilyungi's Stats](https://github-readme-stats.vercel.app/api?username=devkilyungi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 📫 **Contact:**
 
-- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/kilyungi).
+- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/kilyungi). -->
 
 Happy coding!
